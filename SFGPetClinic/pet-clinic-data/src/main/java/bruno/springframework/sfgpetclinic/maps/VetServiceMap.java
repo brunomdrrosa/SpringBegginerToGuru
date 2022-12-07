@@ -1,11 +1,11 @@
 package bruno.springframework.sfgpetclinic.maps;
 
 import bruno.springframework.sfgpetclinic.models.Vet;
-import bruno.springframework.sfgpetclinic.services.CrudService;
+import bruno.springframework.sfgpetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
