@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c127f4cc-e3e8-49d2-8de3-61b6160737fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/SfgDiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/controllers/ConstructorInjectedController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/controllers/I18nController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/controllers/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/controllers/PropertyInjectedController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/controllers/SetterInjectedController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/ConstructorGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/GreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/I18nEnglishGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/I18nSpanishGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/PrimaryGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/PropertyInjectedGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bruno/springframework/sfgdi/services/SetterInjectedGreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bruno/springframework/sfgdi/SfgDiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bruno/springframework/sfgdi/controllers/ConstructorInjectedControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bruno/springframework/sfgdi/controllers/PropertyInjectedControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bruno/springframework/sfgdi/controllers/SetterInjectedControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SFGPetClinic/pet-clinic-data/src/main/java/bruno/springframework/sfgpetclinic/maps/AbstractMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SFGPetClinic/pet-clinic-data/src/main/java/bruno/springframework/sfgpetclinic/maps/AbstractMapService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IdSDyFiRhQKV0f9inS1jsDBHAG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/bruno/OneDrive/Área de Trabalho/SpringGuru/sfg-di-scope-demo"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.SfgDiApplication (1)">
+    <configuration name="SfgDiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sfg-di-scope-demo2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgdi.SfgDiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SfgDiApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SFG-DependencyInjection" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgdi.SfgDiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SfgDiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sfg-di" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgdi.SfgDiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c127f4cc-e3e8-49d2-8de3-61b6160737fd" name="Changes" comment="" />
+      <created>1670509852492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670509852492</updated>
+      <workItem from="1670509853676" duration="964000" />
+      <workItem from="1670511027109" duration="485000" />
+      <workItem from="1670511584236" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
