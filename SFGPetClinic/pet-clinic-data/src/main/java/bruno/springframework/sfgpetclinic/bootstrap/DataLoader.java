@@ -1,7 +1,5 @@
 package bruno.springframework.sfgpetclinic.bootstrap;
 
-import bruno.springframework.sfgpetclinic.maps.OwnerServiceMap;
-import bruno.springframework.sfgpetclinic.maps.VetServiceMap;
 import bruno.springframework.sfgpetclinic.models.Owner;
 import bruno.springframework.sfgpetclinic.models.Vet;
 import bruno.springframework.sfgpetclinic.services.OwnerService;

@@ -1,4 +1,4 @@
-package bruno.springframework.sfgpetclinic.maps;
+package bruno.springframework.sfgpetclinic.services.maps;
 
 import bruno.springframework.sfgpetclinic.models.Owner;
 import bruno.springframework.sfgpetclinic.services.OwnerService;
